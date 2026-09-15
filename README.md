@@ -10,3 +10,9 @@ Run a short example with:
 ```bash
 python demo.py
 ```
+
+Run the lightweight unit tests with:
+
+```bash
+python -m unittest discover -s tests
+```
