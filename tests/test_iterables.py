@@ -1,6 +1,6 @@
 import unittest
 
-from piuudc.iterables import chunked, flatten_once
+from piuudc.iterables import chunked, flatten_once, unique_preserve_order
 
 
 class ChunkedTests(unittest.TestCase):
@@ -13,6 +13,9 @@ class ChunkedTests(unittest.TestCase):
 
     def test_flatten_once_joins_nested_lists(self) -> None:
         self.assertEqual(flatten_once([["a"], ["b", "c"]]), ["a", "b", "c"])
+
+    def test_unique_preserve_order_removes_repeats(self) -> None:
+        self.assertEqual(unique_preserve_order(["x", "y", "x", "z", "y"]), ["x", "y", "z"])
 
 
 if __name__ == "__main__":
