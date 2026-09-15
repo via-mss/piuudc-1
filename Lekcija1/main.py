@@ -1,3 +1,8 @@
 print("hello wuuld")
 
-int(input("what is 9+10?/n"))
+answ = int(input("what is 9+10?/n"))
+
+if answ == 21:
+  print("yu, stuupid")
+else:
+  print("boy, you dum as hell")
