@@ -13,3 +13,5 @@ c = a + b
 
 d = a / b
 str = "str"
+
+nfc = True
