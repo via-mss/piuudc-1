@@ -18,4 +18,7 @@ str = "str"
 nfc = True
 def mumsBlakusIrDarzenis():
   print("ko darīt?")
+
+for a in b:
+  print(str)
   
