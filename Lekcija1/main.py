@@ -16,4 +16,5 @@ str = "str"
 
 nfc = True
 def mumsBlakusIrDarzenis():
+  print("ko darīt?")
   
