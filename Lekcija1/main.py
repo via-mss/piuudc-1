@@ -12,3 +12,4 @@ b = 2
 c = a + b
 
 d = a / b
+str = "str"
