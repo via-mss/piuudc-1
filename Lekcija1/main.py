@@ -6,3 +6,5 @@ if answ == 21:
   print("yu, stuupid")
 else:
   print("boy, you dum as hell")
+
+a = 1
