@@ -15,3 +15,5 @@ d = a / b
 str = "str"
 
 nfc = True
+def mumsBlakusIrDarzenis():
+  
