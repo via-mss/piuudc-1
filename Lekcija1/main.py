@@ -1,4 +1,5 @@
 print("hello wuuld")
+print("how is u?")
 
 answ = int(input("what is 9+10?/n"))
 
