@@ -8,3 +8,4 @@ else:
   print("boy, you dum as hell")
 
 a = 1
+b = 2
