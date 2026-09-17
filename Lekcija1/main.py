@@ -28,3 +28,6 @@ if kasIrPitaks > 10:
   print("tas nav pitaks")
 
 kasIrKosmoss = False
+
+if kasIrKosmoss == True:
+  "Pimis"
