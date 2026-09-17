@@ -7,3 +7,4 @@ Programmatūras izstrādes un uzturēšanas dzīves cikls 1. repo.
 
  cucumber
  bread
+juice
