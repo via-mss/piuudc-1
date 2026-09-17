@@ -9,3 +9,4 @@ Programmatūras izstrādes un uzturēšanas dzīves cikls 1. repo.
  bread
 juice
 sweets
+kaput
