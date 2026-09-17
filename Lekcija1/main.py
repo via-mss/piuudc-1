@@ -23,3 +23,6 @@ for a in b:
   print(str)
   
 kasIrPitaks =< 5
+
+if kasIrPitaks > 10:
+  print("tas nav pitaks")
