@@ -22,3 +22,4 @@ def mumsBlakusIrDarzenis():
 for a in b:
   print(str)
   
+kasIrPitaks =< 5
