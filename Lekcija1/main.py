@@ -30,4 +30,5 @@ if kasIrPitaks > 10:
 kasIrKosmoss = False
 
 if kasIrKosmoss == True:
-  "Pimis"
+  print("Pimis")
+else: print("Malacis")
