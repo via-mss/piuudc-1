@@ -6,3 +6,4 @@ Programmatūras izstrādes un uzturēšanas dzīves cikls 1. repo.
 Šeit būs random komentāri
 
  cucumber
+ bread
