@@ -26,3 +26,5 @@ kasIrPitaks =< 5
 
 if kasIrPitaks > 10:
   print("tas nav pitaks")
+
+kasIrKosmoss = False
