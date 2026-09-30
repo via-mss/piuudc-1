@@ -1,0 +1,4 @@
+Iepirkumu saraksts:
+- gurķi
+- maize
+- sula
