@@ -2,3 +2,4 @@ Iepirkumu saraksts:
 - gurķi
 - maize
 - sula
+- piens
