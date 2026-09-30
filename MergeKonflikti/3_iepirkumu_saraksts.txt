@@ -2,4 +2,8 @@ Iepirkumu saraksts:
 - gurķi
 - maize
 - sula
+<<<<<<< HEAD
 - saldumi
+=======
+- piens
+>>>>>>> 18ba3b3e03
