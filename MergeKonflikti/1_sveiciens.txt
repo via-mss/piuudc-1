@@ -1,5 +1,9 @@
 Sveiciena teksts
 
+<<<<<<< HEAD
 Sveiciens: Labdien, pasaule!
+=======
+Sveiciens: Čau, pasaule!
+>>>>>>> ec1a22cc26
 
 Valoda: latviešu
